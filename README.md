@@ -33,11 +33,11 @@ A very elegant and simple library to evaluate models.
 
 This  module builds the BarPlot, BoxPlot, CountPlot, DistPlot, HeatMap, PairPlot and ViolinPlot only with one line of code.A folder is created 'Plots' where the pdf files of all the plots are stored.Along with this, a pdf file will be generated 'FinalPlots.pdf' which contains all the plots with which EDA can be performed easily.
 
-This module will evaulate the Classification problems and Regression problems with 12 and 7 algorithms respectively. 
+This module will evaulate the Classification problems and Regression problems with 12 and 6 algorithms respectively. 
 
 The Classification algorithms are KNN,LogisticRegression,DecisionTreeClassifier, RandomForestClassifier, SupportVectorClassifier, QuadraticDiscriminantSnalysis, SGDClassifier, AdaBoost, CalibratedClassifier, MultinomialNB, BernoulliNB, GaussianNB.
 
-The Regression algorithms are LinearRegression, PolynomialRegression, RidgeRegression, LassoRegression, SupportVectorRegressor, GradientBoostingRegression, PLSRegression.
+The Regression algorithms are LinearRegression, PolynomialRegression, RidgeRegression, LassoRegression, SupportVectorRegressor, GradientBoostingRegression.
 
 We also have implmented the Adjusted R Squared method as the Regression Metric Evaluation.
 
@@ -105,7 +105,5 @@ In this version we are only providing the reports and the plots as many as possi
 Sai Gokul Krishna Reddy Talla - [@Krish](https://www.linkedin.com/in/gokul-talla) - gokulkrishna.talla@gmail.com
 
 Ananda Datta Sai Phanindra Tangirala - [@Anand](https://www.linkedin.com/in/ananda-datta-sai-phanindra-tangirala-62a4b5185) - tangiralaphanindra@gmail.com
-
-Anirudh Palaparthi - [@anirudh8889](https://twitter.com/anirudh8889) - aniruddhapnbb@gmail.com
 
 Project Link: [https://github.com/Anand-Gokul/pyevals](https://github.com/Anand-gokul/pyevals)
