@@ -106,4 +106,8 @@ Sai Gokul Krishna Reddy Talla - [@Krish](https://www.linkedin.com/in/gokul-talla
 
 Ananda Datta Sai Phanindra Tangirala - [@Anand](https://www.linkedin.com/in/ananda-datta-sai-phanindra-tangirala-62a4b5185) - tangiralaphanindra@gmail.com
 
+Anirudh Palaparthi - @anirudh8889 - aniruddhapnbb@gmail.com
+
 Project Link: [https://github.com/Anand-Gokul/pyevals](https://github.com/Anand-gokul/pyevals)
+
+
